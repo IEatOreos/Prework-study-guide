@@ -17,26 +17,27 @@ h2 {
 }
 
 img {
-    display: block;
-    height: 50px;
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ul {
-    padding-left: 40px;
-    font-size: 20px;
+  padding-left: 40px;
+  font-size: 20px;
 }
 
 p {
-    text-align: center;
-    font-size: 30px;
-  }
+  text-align: center;
+  font-size: 30px;
+}
+  
 
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid rgb(223, 4, 4);
-    box-shadow: 5px 10px #7c0505;
-  }  
+    border: 5px solid rgb(255, 94, 2);
+    box-shadow: 5px 10px #613401;
+  }
